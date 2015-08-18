@@ -1,3 +1,3 @@
-Hey, you should read this file.
+Hey, you should read this file about the program.
 
 
